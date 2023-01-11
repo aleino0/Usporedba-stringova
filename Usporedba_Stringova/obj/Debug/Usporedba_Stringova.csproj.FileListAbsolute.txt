@@ -1,0 +1,6 @@
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\bin\Debug\Usporedba_Stringova.exe.config
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\bin\Debug\Usporedba_Stringova.exe
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\bin\Debug\Usporedba_Stringova.pdb
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\obj\Debug\Usporedba_Stringova.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\obj\Debug\Usporedba_Stringova.exe
+C:\Users\ucenik\source\repos\Usporedba_Stringova\Usporedba_Stringova\obj\Debug\Usporedba_Stringova.pdb
